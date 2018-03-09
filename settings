@@ -1,0 +1,4 @@
+[SETTINGS]
+sell_increment = 1.0
+buy_decrement = 1.0
+
